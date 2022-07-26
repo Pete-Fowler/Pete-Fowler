@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pete-Fowler
 - 👀 I’m interested in javascript, software engineering
-- 🌱 I’m currently learning full stack web development through The Odin Project
+- 🌱 I’m currently learning full stack web development through the Flatiron School and The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fowler.pete@gmail.com
 
