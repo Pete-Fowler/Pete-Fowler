@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pete-Fowler
-- 👀 I’m interested in javascript, software engineering
+<!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning full stack web development through the Flatiron School and The Odin Project
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fowler.pete@gmail.com
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me: fowler.pete@gmail.com
 
 <!---
 Pete-Fowler/Pete-Fowler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
