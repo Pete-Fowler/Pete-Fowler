@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack web development through the Flatiron School and The Odin Project
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: fowler.pete@gmail.com
+- petefowler.dev
 
 <!---
 Pete-Fowler/Pete-Fowler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
