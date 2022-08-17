@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pete-Fowler
 <!-- - 👀 I’m interested in  -->
-- 🌱 I am currently focusing on improving as a full stack software engineer through the Flatiron School and The Odin Project
+- 🌱 Full stack software engineer | JavaScript | React | Node | Ruby | Rails
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 
 - https://petefowler.dev
