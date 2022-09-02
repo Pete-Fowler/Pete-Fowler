@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pete-Fowler
 <!-- - 👀 I’m interested in  -->
-- 🌱 Full stack software engineer | JavaScript | React | Node | Ruby | Rails
+- 🌱 Full stack software engineer | JavaScript | React | Ruby | Rails
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 
 - https://petefowler.dev
