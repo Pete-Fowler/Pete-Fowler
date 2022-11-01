@@ -20,4 +20,4 @@ I love building things, and the intellectual challenges and ongoing learning req
 - fowler.pete@gmail.com
 
 ## Extra pinned repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pete-Fowler&repo=battleship)](https://github.com/pete-fowler/battleship) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pete-Fowler&repo=herbivorous)](https://github.com/pete-fowler/herbivorous) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pete-Fowler&repo=battleship)](https://github.com/pete-fowler/battleship) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pete-Fowler&repo=yelp-clone-backend)](https://https://yelpclone.petefowler.dev/) 
