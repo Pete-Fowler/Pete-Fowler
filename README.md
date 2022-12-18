@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/104571660/188966198-3d2be477-a829-442d-ac1e-bf507063fbb6.png)
+![banner](https://user-images.githubusercontent.com/104571660/208270924-a09b9368-78cd-44e3-9836-d8e690473c8e.jpg)
 
 ## Random Developer Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
