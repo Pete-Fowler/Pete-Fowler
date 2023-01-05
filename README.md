@@ -4,7 +4,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Description
-I love building things, and the intellectual challenges and ongoing learning required in this field. I recently completed the Flatiron School and continue to learn and build full stack web apps through The Odin Project. I've obtained strong problem-solving, communication, and collaboration skills through teaching myself web development, plus previous experience in music, journalism, private investigation, and healthcare. I am a dedicated rock climber and runner from Colorado.
+I love learning and building things. I am currently working at Calance as a Jr. Software Engineer primarily with C# ASP.NET software integration. I am a dedicated rock climber and runner from Colorado.
 
 ## GitHub Stats
 [![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pete-fowler&hide=stars&show_icons=true&theme=radical)](https://github.com/pete-fowler/github-readme-stats)
