@@ -13,6 +13,4 @@ I love learning and building things. I am currently working at Calance as a Jr. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pete-fowler&layout=compact)](https://github.com/pete-fowler/github-readme-stats)
 
 ## Links
-- https://petefowler.dev
 - https://www.linkedin.com/in/pete-fowler/
-- fowler.pete@gmail.com
