@@ -2,7 +2,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Description
-I love learning and building things. I am currently working at Calance as a Jr. Software Engineer primarily with C# ASP.NET software integration. I am a dedicated rock climber and runner from Colorado.
+I love learning and building things. I am currently working at Calance as a Jr. Software Engineer, rebuilding the data integration portal with React and .NET Core. I am a dedicated rock climber and runner from Colorado.
 
 ## GitHub Stats
 [![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pete-fowler&hide=stars&show_icons=true&theme=radical)](https://github.com/pete-fowler/github-readme-stats)
