@@ -2,7 +2,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Description
-Software engineer experienced in React, TypeScript, and C# / .NET Core who loves learning and is on a never ending quest to find better ways to do things. I am working at Calance, leading a full-stack rebuild of the data integration website with React, TypeScript and .NET Core. I am a dedicated rock climber and runner from Colorado.
+Software engineer who recently spearheaded complete rebuild of data integration SAAS product’s web app. Experienced in JavaScript, React, TypeScript, and C# / .NET. Passionate about continuous improvement, code quality, and best practices. Diverse background spanning journalism, private investigation, and healthcare provides a unique perspective to team problem solving. I am a dedicated rock climber and runner from Colorado.
 
 ## GitHub Stats
 [![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=pete-fowler&hide=stars&show_icons=true&theme=radical)](https://github.com/pete-fowler/github-readme-stats)
