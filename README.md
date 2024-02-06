@@ -2,7 +2,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Description
-Recently spearheaded complete rebuild of data integration SaaS product’s web app. Experienced in JavaScript, React, TypeScript, C# / .NET, and Amazon Web Services. Passionate about continuous improvement, code quality, and best practices.I am a dedicated rock climber and runner from Colorado.
+Software engineer who recently spearheaded complete rebuild of data integration SAAS product’s web app. Experienced in JavaScript, React, TypeScript, C# / .NET, and Amazon Web Services. Passionate about continuous improvement, code quality, and best practices. I am a dedicated rock climber and runner from Colorado.
 
 ## GitHub Stats
 [![Pete's GitHub stats](https://github-readme-stats-pf.vercel.app/api?username=pete-fowler&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/pete-fowler/github-readme-stats)
