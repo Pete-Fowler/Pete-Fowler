@@ -2,7 +2,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Description
-Full stack engineer with 2.5 years of experience building financial data integration products with React, TypeScript, C# (.NET), and AWS. Led a complete rebuild of a SaaS web app and achieved 35% annual AWS cost savings. Strong problem solving and team collaboration skills from journalism, private investigation, and healthcare careers.
+Full stack engineer with 3 years of experience building financial data integration products with React, TypeScript, C# (.NET), and AWS. Led a complete rebuild of a SaaS web app and achieved 35% annual AWS cost savings. Strong problem solving and team collaboration skills from journalism, private investigation, and healthcare careers.
 
 Passionate about continuous improvement, clean code, and best practices (where they exist). Dedicated rock climber and runner based in Colorado. Names variables like a firstborn child.
 
